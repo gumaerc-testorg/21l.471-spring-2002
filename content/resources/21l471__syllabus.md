@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 498b6436-0c24-396c-f0cb-295bb125b0e9
 resourcetype: Document
 title: Spring 2002 Syllabus
 uid: 38bfd39c-522d-2ffb-be51-7da2a1f4ec27
