@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides selected web links on Romantic-era fiction and
+  its historical and cultural contexts.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
