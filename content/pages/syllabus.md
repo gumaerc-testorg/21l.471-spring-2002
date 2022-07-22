@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, and a statement on plagiarism.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 498b6436-0c24-396c-f0cb-295bb125b0e9
 ---
 
-Syllabus ([PDF]({{< baseurl >}}/resources/21l471__syllabus))
+Syllabus ({{% resource_link 38bfd39c-522d-2ffb-be51-7da2a1f4ec27 "PDF" %}})
 
 Course Meeting Times
 --------------------

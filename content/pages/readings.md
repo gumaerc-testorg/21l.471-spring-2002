@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a course bibliography.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 6ec11587-3c5c-ab02-8e2e-6d7c651bc90f
 ---

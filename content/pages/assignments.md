@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides details on the two essay assignments for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 236ae359-aeb3-20c6-54a8-5a8bc50a3127
 ---
