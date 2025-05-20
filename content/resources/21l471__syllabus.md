@@ -2,7 +2,7 @@
 content_type: resource
 description: This syllabus provides a course description and information on course
   texts, requirements, and assignments.
-file: /ol-ocw-studio-app/courses/21l-471-major-english-novels-reading-romantic-fiction-spring-2002/38bfd39c522d2ffbbe517da2a1f4ec27_21L471__syllabus.pdf
+file: /courses/21l-471-major-english-novels-reading-romantic-fiction-spring-2002/38bfd39c522d2ffbbe517da2a1f4ec27_21L471__syllabus.pdf
 file_size: 217788
 file_type: application/pdf
 learning_resource_types: []
