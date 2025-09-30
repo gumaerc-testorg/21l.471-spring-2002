@@ -18,21 +18,21 @@ If you’re interested in learning more about Romantic-era fiction and its histo
   
 The Jane Austen Information Page (Henry Churchyard)
 
-[http://www.pemberley.com/janeinfo/](http://www.pemberley.com/janeinfo/)
+{{% resource_link "c8ff42d8-bd19-47b9-8cd6-d102709ff50e" "http://www.pemberley.com/janeinfo/" %}}
 
   
 The Edgeworth Website (John McGerr)
 
-[http://homepage.tinet.ie/~jmac/](http://homepage.tinet.ie/~jmac/)
+{{% resource_link "e4dab2cf-212b-4726-bd16-f9deb32b4011" "http://homepage.tinet.ie/~jmac/" %}}
 
   
 Mary Wollstonecraft Shelley Chronology and Resource Site (Shannon Lawson)
 
-[http://www.rc.umd.edu/reference/chronologies/mschronology/mws.html](http://www.rc.umd.edu/reference/chronologies/mschronology/mws.html)
+{{% resource_link "fbd5a79c-d56d-4ba2-b370-120739abc07f" "http://www.rc.umd.edu/reference/chronologies/mschronology/mws.html" %}}
 
 **Historical/Cultural Context**
 
   
 The Regency Fashion Page (Cathy Decker)
 
-[http://regencyfashion.org/](http://regencyfashion.org/)
+{{% resource_link "ea63345f-42c8-47f7-a390-ccfff7109532" "http://regencyfashion.org/" %}}
